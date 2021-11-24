@@ -52,4 +52,67 @@ body {
 .signup {
     background: #3882F6;
     color: #F9FAF8;
+    border: 2px solid #eee;
+    border-radius: 10%;
+}
+
+.second {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.rando {
+    padding: 30px;
+    color: #1F2937;
+    font-size: 36px;
+}
+
+.container {
+    display: flex;
+    text-align: center;
+    gap: 30px;
+}
+
+.box {
+    border: 3px solid #3882F6;
+    border-radius: 10%;
+    height: 150px;
+    width: 150px;
+    margin-bottom: 16px;
+}
+
+.caption {
+    margin-bottom: 100px;
+}
+
+.inspiration {
+    display: flex;
+    justify-content: center;
+    padding: 150px 300px;
+    background: #E5E7Eb;
+    font-size: 32px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.bloo {
+    display: flex;
+    justify-content: center;
+    border: 3px solid #3882F6;
+    border-radius: 10px;
+    margin: 100px 200px;
+    color: #eee;
+    background: #3882F6;
+    padding: 30px 100px;
+    justify-content: space-between;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    background: #1F2937;
+    color: #eee;
+    padding: 30px 0;
 }
