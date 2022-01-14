@@ -1,3 +1,3 @@
-# landing-page
+Using flexbox to create an effective and aesthetically pleasing web design.
 
-This project will demonstrate the ability to use flexbox for effective and aesthetically pleasing web design.
+Live preview: https://pdimaano.github.io/landing-page/
